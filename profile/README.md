@@ -22,4 +22,4 @@ We welcome students who demonstrate a passion for coding and are committed to le
 
 - Website: [BYTE Club Website](https://www.byteccny.com/)
 - Instagram: [@byteccny](https://instagram.com/byteccny)
-- LinkedIn: [BYTE Club on LinkedIn](https://www.linkedin.com/company/byteccny)
+- LinkedIn: [BYTE Club on LinkedIn](https://www.linkedin.com/company/byte-ccny/)
