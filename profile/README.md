@@ -18,6 +18,9 @@ At BYTE, we aim to empower students by providing them with the tools, guidance, 
 
 We welcome students who demonstrate a passion for coding and are committed to learning more about software development. Applications for the Fall 2024 Cohort are live! [Apply today!](https://docs.google.com/forms/d/e/1FAIpQLSfK8xf-lyFWMm4BcrrwNYlRb0mCMfye_oKbfJgYZVkvQY5SJg/viewform?usp=sf_link)
 
+## Contribute
+Feel free to create a pull request on our website, server, or any cohort projects if there is a feature you would like to implement or bug you would like to fix.
+
 ## Follow our Mentors!
 - [Fahad](https://github.com/LordFarquaadtheCreator)
 - [Jawad](https://github.com/joewadk)
