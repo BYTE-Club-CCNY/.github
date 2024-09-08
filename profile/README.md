@@ -1,4 +1,4 @@
-# BYTE (Bringing Your Tech Experience) Club
+# BYTE Club (Build. Your. Technical. Experience.) 
 
 ![BYTE Logo](../img/Primary%20Logo.png)
 
