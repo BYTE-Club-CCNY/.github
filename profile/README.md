@@ -16,7 +16,7 @@ At BYTE, we aim to empower students by providing them with the tools, guidance, 
   
 ## How to Get Involved
 
-We welcome students of all skill levels to join us! Whether you're just starting or have been coding for years, BYTE is a space to grow, learn, and contribute. Keep an eye out for our events and project opportunities throughout the semester.
+We welcome students who demonstrate a passion for coding and are committed to learning more about software development. Applications for the Fall 2024 Cohort are live! [Apply today!](https://docs.google.com/forms/d/e/1FAIpQLSfK8xf-lyFWMm4BcrrwNYlRb0mCMfye_oKbfJgYZVkvQY5SJg/viewform?usp=sf_link)
 
 ## Connect with Us
 
