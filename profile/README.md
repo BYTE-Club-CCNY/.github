@@ -18,6 +18,12 @@ At BYTE, we aim to empower students by providing them with the tools, guidance, 
 
 We welcome students who demonstrate a passion for coding and are committed to learning more about software development. Applications for the Fall 2024 Cohort are live! [Apply today!](https://docs.google.com/forms/d/e/1FAIpQLSfK8xf-lyFWMm4BcrrwNYlRb0mCMfye_oKbfJgYZVkvQY5SJg/viewform?usp=sf_link)
 
+## Follow our Mentors!
+- [Fahad](https://github.com/LordFarquaadtheCreator)
+- [Jawad](https://github.com/joewadk)
+- [Ishmam](https://github.com/IshmamF)
+- [Baljinder](https://github.com/BaljinderHothi)
+
 ## Connect with Us
 
 - Website: [BYTE Club Website](https://www.byteccny.com/)
