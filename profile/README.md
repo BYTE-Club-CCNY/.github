@@ -10,8 +10,8 @@ At BYTE, we aim to empower students by providing them with the tools, guidance, 
 
 ## What We Do
 
-- **Project Development**: Students wil be divided into team of 4 to work on projects that push their technical boundaries. 
-
+- **Project Development**: Students will be divided into team of 4 to work on projects that push their technical boundaries. 
+- **Mid Semester Catch up**: Halfway through the semester, we will hold a convention for our cohort to see the progress of other teams and meet other accepted cohort.
 - **Demo Night**: A showcase event at the end of each semester where students present their projects to a live audience of peers and industry professionals.
   
 ## How to Get Involved
