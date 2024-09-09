@@ -6,7 +6,7 @@ Welcome to the official GitHub organization for the **BYTE (Bringing Your Tech E
 
 ## About Us
 
-At BYTE, we aim to empower students by providing them with the tools, guidance, and community to turn their ideas into fully developed applications. We focus on collaborative learning, where students work together to tackle real-world problems, develop apps, and showcase their work in a Demo Night at the end of each semester.
+At BYTE, we aim to empower students by providing them with the tools, guidance, and community to turn their ideas into fully developed applications. Our goal is to provide students with a learning opportunity that they can talk about during technical interviews. We focus on collaborative learning, where students work together to tackle real-world problems, develop apps, and showcase their work in a Demo Night at the end of each semester.
 
 ## What We Do
 
