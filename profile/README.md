@@ -1,6 +1,9 @@
 # BYTE Club (Build. Your. Technical. Experience.) 
 
 ![BYTE Logo](../img/Primary%20Logo.png)
+<img src="../img/Primary%20Logo.png"
+     alt="BYTE Logo"
+     style="max-width:50%;" />
 
 Welcome to the official GitHub organization for the **BYTE (Bringing Your Tech Experience) Club at CCNY**! BYTE is a student-run club dedicated to helping students build impressive projects, expand their technical skills, and enhance their resumes.
 
