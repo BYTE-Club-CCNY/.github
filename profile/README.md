@@ -15,9 +15,9 @@ At BYTE, we aim to empower students by providing them with the tools, guidance, 
 
 - **Project Development**: Students work in teams of 4 to collaborate on projects 
 - **Demo Night**: A showcase event at the end of each semester where students present their projects to a live audience of peers and professors
-  
+- **Events**: Keep an eye out for upcoming events from us coming soon!
 ## How to Get Involved
-We welcome students who demonstrate a passion for coding and are committed to learning more about software development. Applications for the Spring 2025 Cohort will be open in the winter break!
+We welcome students who demonstrate a passion for coding and are committed to learning more about software development. Applications for the Fall 2025 Cohort will be open in the first month of the Fall Semester!
 
 ## Contribute
 Feel free to create a pull request on our website, server, or any cohort projects if there is a feature you would like to implement or bug you would like to fix.
@@ -27,6 +27,8 @@ Feel free to create a pull request on our website, server, or any cohort project
 - [Jawad](https://github.com/joewadk)
 - [Ishmam](https://github.com/IshmamF)
 - [Baljinder](https://github.com/BaljinderHothi)
+- [Abrar](https://github.com/dddictionary)
+- [Jay](https://github.com/jaynopponep)
 
 ## Connect with Us
 
